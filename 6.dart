@@ -1,10 +1,10 @@
 void main() {
   Firstclass obj = Firstclass();
-  obj.func("Waleed");
+  obj.func("ammar");
 }
 
 class Firstclass {
   func(var meraname) {
-    print("Hello ${meraname}");
+    print("my name is ${meraname}");
   }
 }
