@@ -1,5 +1,5 @@
 void main() {
-  Firstclass obj = Firstclass(name:"Waleed",age:22,edu:"B.Sc");
+  Firstclass obj = Firstclass(name:"ammar",age:22,edu:"B.Sc");
   obj.func();
 }
 
